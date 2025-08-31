@@ -25,3 +25,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 <img src= "public/atv3-1.png">
 <img src= "public/atv3-2.png">
+
