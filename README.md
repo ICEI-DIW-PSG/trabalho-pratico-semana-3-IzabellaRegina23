@@ -10,17 +10,18 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Izabella Regina
+- Matricula: 901340
+- Proposta de projeto escolhida: Proposta 2
+- Breve descrição sobre seu projeto: Web Page voltada para viajantes. Explanação sobre os lugares, dicas de passeios,experiência pessoal sobre lugares que já visitei, quiz para indicar destinos de viagem, dicas funcionais para viajantes (arrumar mala, checklist de viagem e ect.).
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src= "public/wireframe.png">
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src= "public/atv3-1.png">
+<img src= "public/atv3-2.png">
